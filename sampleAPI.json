@@ -1,0 +1,65 @@
+{
+   "root": {
+      "status": "ok",
+      "source": "the-times-of-india",
+      "sortBy": "top",
+      "articles": [
+         {
+            "author": "",
+            "title": "'Do we belong here?' asks wife of Hyderabad techie shot dead by American - Times of India",
+            "description": "Srinivas's wife Sunayana Dumala said she was concerned about shootings incidents in America and had doubted whether they should stay in the country, but her husband had assured her saying that \"good things happen in America.\"",
+            "url": "http://timesofindia.indiatimes.com/india/do-we-belong-here-asks-wife-of-hyderabad-techie-shot-dead-by-american/articleshow/57340141.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57340146.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "",
+            "title": "Major fire at China hotel traps several people - Times of India",
+            "description": "A major fire at a multi-storey luxury hotel in east China's Jiangxi Province trapped an unknown number of people, authorities said. The blaze on the second floor of HNA Platinum Mix Hotel in provincial capital Nanchang began this morning. Nearly 10 fire trucks were working to put out the fire.",
+            "url": "http://timesofindia.indiatimes.com/world/china/major-fire-at-china-hotel-traps-several-people/articleshow/57341915.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57341958.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "Chidanand Rajghatta",
+            "title": "US hearts bleed for slain techie; Crowdfunding helps raise Rs 2cr for kin - Times of India",
+            "description": "In an ideal world, an America of their dreams, they might have forged a start-up company called Kuchibhotla & Madasani. But a hateful moment in the American hinterland, spotty with prejudice, extinguished their dreams.",
+            "url": "http://timesofindia.indiatimes.com/nri/us-canada-news/hate-in-the-american-hinterland-as-an-indian-life-is-snuffed-out/articleshow/57334412.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57337900.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "",
+            "title": "Saudi King Salman launches investment drive with Asia tour - Times of India",
+            "description": "Energy Minister Khalid al-Falih and Aramco executives will travel with him on the king's first trip outside the Middle East and North Africa since he visited the United States in 2015. The octogenarian monarch is expected to visit Malaysia, Indonesia, Japan and China.",
+            "url": "http://timesofindia.indiatimes.com/world/middle-east/saudi-king-salman-launches-investment-drive-with-asia-tour/articleshow/57342148.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57342135.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "M Saleem Pandit",
+            "title": "At militant hotbed, Kashmiris throng martyred soldier’s funeral - Times of India",
+            "description": "“Mohiuddin has left behind his ailing parents, wife, and a two-year-old son, besides a sister whose wedding was fixed for next month,” Manzoor Ahmad Rather, Mohiuddin’s friend, said. “He was a kind person who helped people in times of need,” he said.",
+            "url": "http://timesofindia.indiatimes.com/india/at-militant-hotbed-kashmiris-throng-martyred-soldiers-funeral/articleshow/57338169.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57338163.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "",
+            "title": "Audio pornography, ‘lady oriented’: Reasons cited by CBFC to stall award-winning film - Times of India",
+            "description": "The censor board came under fire by the film fraternity on Friday for its decision to refuse certification to the award-winning film “Lipstick Under My Burkha”. The board had objected to alleged “audio pornography, sexual scenes and abusive words” in the film.",
+            "url": "http://timesofindia.indiatimes.com/india/audio-pornography-lady-oriented-reasons-cited-by-cbfc-to-stall-award-winning-film/articleshow/57337989.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57338049.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         },
+         {
+            "author": "",
+            "title": "What chemical weapons North Korea possesses - Times of India",
+            "description": "Malaysian police said a chemical weapon the toxic VX nerve agent was used to kill the estranged half brother of Pyongyang leader at the Kuala Lumpur airport on Feb. 13. If N Korea's involvement is confirmed, this would be an unusual and extremely high-profile use of its chemicals in an assassination.",
+            "url": "http://timesofindia.indiatimes.com/world/rest-of-world/what-chemical-weapons-north-korea-possesses/articleshow/57340707.cms",
+            "urlToImage": "http://timesofindia.indiatimes.com/photo/57341074.cms",
+            "publishedAt": "0001-01-01T00:00:00Z"
+         }
+      ]
+   }
+}
